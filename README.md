@@ -33,7 +33,7 @@
 
 ## 📫 Let's Connect!
 
-- 💻 GitHub: (https://github.com/your-github-username)
+- 💻 GitHub: ((https://github.com/Sirisha1712))
 - ✉️ Email: (shirishayadav7386@gmail.com)
 - 🔗 LinkedIn:((https://www.linkedin.com/in/shirisha-anakusa-b3663031a/))
 
