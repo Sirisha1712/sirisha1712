@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shirisha!
 
-🎓 I'm an aspiring AI/ML Engineer currently pursuing my degree in B.tech at Marri Laxman Reddy Institute Of Technology And Management.  
+🎓 I'm an aspiring AI/ML Engineer currently pursuing my degree in B.tech with 91% at Marri Laxman Reddy Institute Of Technology And Management.  
 💡 I love exploring real-world problems and applying ML/DL models to solve them. I'm passionate about learning new technologies, especially in the field of AI.
 
 ---
